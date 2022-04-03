@@ -2,7 +2,7 @@ package com.bangladesh.dev.qa;
 
 import java.util.Scanner;
 
-public class Calculator {
+public class CalculatorDemo {
 
     public static void main(String[] args) {
 
@@ -19,10 +19,6 @@ public class Calculator {
         System.out.println("Total Calculation was = " + addition);
 
 
-
-
-            }
-
-
+    }
 
 }

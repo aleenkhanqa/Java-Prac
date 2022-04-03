@@ -1,16 +1,15 @@
 package com.bangladesh.dev.qa;
 
 public class Hello {
-    // Java Data Type
 
-    //  Primitive
-    //  Non-Primitive
-
+    // main method....(psvm shortcut, main)
     public static void main(String[] args) {
 
-        System.out.println("I am not a" + "b" + "l" + "e");
-
+        //sout shortcut
+        System.out.println("Bangladesh is our country");
 
 
     }
+
+
 }
