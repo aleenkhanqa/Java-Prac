@@ -4,7 +4,7 @@ public class Constructor {
 
     String name;
     int age;
-    static String school = "Bangladesh Gindabath";
+    static String school = "Malikanda Meghula High School";
 
     public Constructor() {
 //        name = n;
