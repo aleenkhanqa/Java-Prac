@@ -1,6 +1,6 @@
 package com.bangladesh.dev.qa;
 
-public class ShopAppDemo {
+public class ShopAppDemo1 {
 
     public static void main(String[] args) {
 
@@ -21,20 +21,10 @@ public class ShopAppDemo {
                 System.out.println("Size will be x");
 
 
-
-
-
-
-
-
         }
 
 
     }
-
-
-
-
 
 
 }
