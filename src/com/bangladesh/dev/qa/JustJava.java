@@ -1,7 +1,7 @@
 package com.bangladesh.dev.qa;
 
-public class TastJava {
+public class JustJava {
     public static void main(String[] args) {
-        System.out.println("I love java class");
+        System.out.println("My name is Aleen");
     }
 }
