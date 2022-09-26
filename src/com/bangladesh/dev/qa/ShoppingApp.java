@@ -1,7 +1,5 @@
 package com.bangladesh.dev.qa;
 
-import java.util.HexFormat;
-
 public class ShoppingApp {
 
     public static void main(String[] args) {
